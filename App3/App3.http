@@ -1,0 +1,6 @@
+@App3_HostAddress = http://0.0.0.0:5131
+
+GET {{App3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
